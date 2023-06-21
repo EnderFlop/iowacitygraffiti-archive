@@ -5,15 +5,12 @@
     "Studio 13 / Elray's Alley": "41.66068008286266, -91.5327704803271",
     "Visual Arts Building": "41.66607121497885, -91.54201814981165",
     "George's Best Gyros Alley": "41.661021627018364, -91.53245870205188",
-    "639 S Dodge St": ",",
-    "S Dodge St Bridge (North Side)": ",",
+    "639 S Dodge St": "41.65251721417167, -91.5265240424214",
+    "S Dodge St Bridge (North Side)": "41.652385496704674, -91.52594537957746",
     "Elray's Roof": "41.66085423046268, -91.53253022746361",
-    "Pentacrest Sidewalk down N Clinton St": ",",
     "Player's Alley": "41.66084024488318, -91.532379942139",
     "S Linn St (first block off Iowa Ave)": "41.66090191580848, -91.53176083586986",
-    "Iowa Avenue": ",",
     "Chemistry Building": "41.66462401922647, -91.53669419257812",
-    "S Dubuque St": ",",
     "IMU Bridge (East)": "41.663637195469576, -91.53891502883312",
     "E Washington St (near US Bank)": "41.660248812116876, -91.5329971265928",
     "Bruegger's Bagels Alley": "41.66102556997014, -91.53214466877571",
@@ -22,5 +19,8 @@
     "Art Library": "41.664942340235235, -91.54152559727487",
     "Macbride Hall Bus Stop": "41.66240015702594, -91.53575319438954",
     "IMU Bridge (West)": "41.66365586998751, -91.54034538258772",
-    "S Linn St": ","
+    "Dubuque and Iowa": "41.66117811815352, -91.53296118727759",
+    "Studio Block (Linn St)": "41.66089860504279, -91.5317492791938",
+    "Outside Deadwood": "41.660906892333855, -91.53301098151931",
+    "Pentacrest Sidewalk down Clinton St": "41.66074765861245, -91.53472462310174"
 }

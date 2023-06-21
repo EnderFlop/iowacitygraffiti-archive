@@ -85,11 +85,16 @@ def generate_location_json():
                     location = data["location"]
                     if location not in coords.keys():
                         coords[location] = ""
-                with open(f".\photos\{folder}\{file}", "r") as meta:
-                    if data["location"] == "Iowa Avenue":
-                        data["location"] = "Dubuque and Iowa"
+
+                    if location == "S Dubuque St":
                         print(data)
-                        #meta.write(json.dumps(data))
+
+                #LOCATION CHANGER
+                with open(f".\photos\{folder}\{file}", "w") as meta:
+                    if data["location"] == "Pentacrest Sidewalk down N Clinton St":
+                        data["location"] = "Pentacrest Sidewalk down Clinton St"
+                        print(data)
+                    meta.write(json.dumps(data))
     
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
