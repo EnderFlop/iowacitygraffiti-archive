@@ -1,7 +1,6 @@
 import os
 import json
 from PIL import Image, ImageOps
-from get_image_metadata import get_lat_long
 
 # A bunch of utilities to run before each commit to generate metadata, thumbnails, and everything else.
 
@@ -62,26 +61,47 @@ def generate_metadata():
         artist_dict["photos"] = []
         photo_count = 0
         for file in os.listdir(f".\photos\{folder}"):
-            photo_dict = {}
             if ".jpg" not in file:
                 continue
             photo_count += 1
             name = file[:-4] #remove ".jpg"
-            photo_dict["name"] = name
-            lat, lon = get_lat_long(f".\photos\{folder}\{file}")
-            photo_dict["lat"] = lat
-            photo_dict["lon"] = lon
-            artist_dict["photos"].append(photo_dict)
+            artist_dict["photos"].append(name)
         artist_dict["count"] = photo_count
         all_artists_dict[folder] = artist_dict
     obj = json.dumps(all_artists_dict)
     with open(".\\artist_meta.json", "w") as outfile:
         outfile.write(obj)
 
-if __name__ == "__main__":
-    rename_preview()
-    get_rid_of_JPGs()
-    #files are renamed BEFORE anything else is generated, keep this order.
-    generate_thumbnails()
-    generate_metadata()
-    pass
+def generate_location_json():
+    with open(".\location_coords.json", "r") as file:
+        coords = json.load(file)
+
+        all_locations = []
+        for folder in os.listdir(".\photos"):
+            for file in os.listdir(f".\photos\{folder}"):
+                if ".json" not in file:
+                    continue
+                with open(f".\photos\{folder}\{file}") as meta:
+                    data = json.load(meta)
+                    location = data["location"]
+                    if location not in coords.keys():
+                        coords[location] = ""
+                with open(f".\photos\{folder}\{file}", "r") as meta:
+                    if data["location"] == "Iowa Avenue":
+                        data["location"] = "Dubuque and Iowa"
+                        print(data)
+                        #meta.write(json.dumps(data))
+    
+    with open(".\location_coords.json", "w") as file:
+        file.write(json.dumps(coords))
+    
+generate_metadata()
+#generate_location_json()
+
+# if __name__ == "__main__":
+#     rename_preview()
+#     get_rid_of_JPGs()
+#     #files are renamed BEFORE anything else is generated, keep this order.
+#     generate_thumbnails()
+#     generate_metadata()
+#     pass
