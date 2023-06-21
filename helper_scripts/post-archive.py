@@ -76,7 +76,6 @@ def generate_location_json():
     with open(".\location_coords.json", "r") as file:
         coords = json.load(file)
 
-        all_locations = []
         for folder in os.listdir(".\photos"):
             for file in os.listdir(f".\photos\{folder}"):
                 if ".json" not in file:
@@ -95,8 +94,7 @@ def generate_location_json():
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
     
-generate_metadata()
-#generate_location_json()
+generate_location_json()
 
 # if __name__ == "__main__":
 #     rename_preview()
