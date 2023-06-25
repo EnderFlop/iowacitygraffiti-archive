@@ -86,25 +86,25 @@ def generate_location_json():
                     if location not in coords.keys():
                         coords[location] = ""
 
-                    if location == "S Dubuque St":
-                        print(data)
+                    # if location == "S Dubuque St":
+                    #     print(data)
 
                 #LOCATION CHANGER
-                with open(f".\photos\{folder}\{file}", "w") as meta:
-                    if data["location"] == "Pentacrest Sidewalk down N Clinton St":
-                        data["location"] = "Pentacrest Sidewalk down Clinton St"
-                        print(data)
-                    meta.write(json.dumps(data))
+                # with open(f".\photos\{folder}\{file}", "w") as meta:
+                #     if data["location"] == "Pentacrest Sidewalk down N Clinton St":
+                #         data["location"] = "Pentacrest Sidewalk down Clinton St"
+                #         print(data)
+                #     meta.write(json.dumps(data))
     
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
-    
-generate_location_json()
 
-# if __name__ == "__main__":
-#     rename_preview()
-#     get_rid_of_JPGs()
-#     #files are renamed BEFORE anything else is generated, keep this order.
-#     generate_thumbnails()
-#     generate_metadata()
-#     pass
+
+if __name__ == "__main__":
+    rename_preview()
+    get_rid_of_JPGs()
+    #files are renamed BEFORE anything else is generated, keep this order.
+    generate_thumbnails()
+    generate_metadata()
+    generate_location_json()
+    pass
