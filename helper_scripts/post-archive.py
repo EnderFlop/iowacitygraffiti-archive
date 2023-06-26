@@ -73,6 +73,7 @@ def generate_metadata():
         outfile.write(obj)
 
 def generate_location_json():
+    print("Generating Location File")
     with open(".\location_coords.json", "r") as file:
         coords = json.load(file)
 
