@@ -85,7 +85,7 @@ def generate_location_json():
                     data = json.load(meta)
                     location = data["location"]
                     if location not in coords.keys():
-                        coords[location] = ""
+                        coords[location] = {}
 
                     # if location == "S Dubuque St":
                     #     print(data)
@@ -102,10 +102,10 @@ def generate_location_json():
 
 
 if __name__ == "__main__":
-    rename_preview()
-    get_rid_of_JPGs()
+    #rename_preview()
+    #get_rid_of_JPGs()
     #files are renamed BEFORE anything else is generated, keep this order.
-    generate_thumbnails()
-    generate_metadata()
+    #generate_thumbnails()
+    #generate_metadata()
     generate_location_json()
     pass
