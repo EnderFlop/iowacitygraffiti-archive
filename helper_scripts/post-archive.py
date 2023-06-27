@@ -74,8 +74,11 @@ def generate_metadata():
 
 def generate_location_json():
     print("Generating Location File")
+    count_dict = {}
     with open(".\location_coords.json", "r") as file:
         coords = json.load(file)
+        for location in coords.keys():
+            count_dict[location] = 0
 
         for folder in os.listdir(".\photos"):
             for file in os.listdir(f".\photos\{folder}"):
@@ -86,7 +89,8 @@ def generate_location_json():
                     location = data["location"]
                     if location not in coords.keys():
                         coords[location] = {}
-
+                        coords[location]["lat_long"] = ""
+                    count_dict[location] += 1
                     # if location == "S Dubuque St":
                     #     print(data)
 
@@ -96,16 +100,19 @@ def generate_location_json():
                 #         data["location"] = "Pentacrest Sidewalk down Clinton St"
                 #         print(data)
                 #     meta.write(json.dumps(data))
-    
+        
+    for location, count in count_dict.items():
+        coords[location]["count"] = count
+
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
 
 
 if __name__ == "__main__":
-    #rename_preview()
-    #get_rid_of_JPGs()
+    rename_preview()
+    get_rid_of_JPGs()
     #files are renamed BEFORE anything else is generated, keep this order.
-    #generate_thumbnails()
-    #generate_metadata()
+    generate_thumbnails()
+    generate_metadata()
     generate_location_json()
     pass

@@ -1,46 +1,178 @@
 {
-    "Elray's Alley": {"lat_long": "41.660993040206094, -91.53263070307325"},
-    "Evans St near Ralston Creek": {"lat_long": "41.66206585102603, -91.52070416429022"},
-    "Studio Hole": {"lat_long": "41.66053427119648, -91.53232420218433"},
-    "Studio 13 / Elray's Alley": {"lat_long": "41.66068008286266, -91.5327704803271"},
-    "Visual Arts Building": {"lat_long": "41.66607121497885, -91.54201814981165"},
-    "George's Best Gyros Alley": {"lat_long": "41.661021627018364, -91.53245870205188"},
-    "639 S Dodge St": {"lat_long": "41.65251721417167, -91.5265240424214"},
-    "S Dodge St Bridge (North Side)": {"lat_long": "41.652385496704674, -91.52594537957746"},
-    "Elray's Roof": {"lat_long": "41.66085423046268, -91.53253022746361"},
-    "Player's Alley": {"lat_long": "41.66084024488318, -91.532379942139"},
-    "S Linn St (first block off Iowa Ave)": {"lat_long": "41.66090191580848, -91.53176083586986"},
-    "Chemistry Building": {"lat_long": "41.66462401922647, -91.53669419257812"},
-    "IMU Bridge (East)": {"lat_long": "41.663637195469576, -91.53891502883312"},
-    "E Washington St (near US Bank)": {"lat_long": "41.660248812116876, -91.5329971265928"},
-    "Bruegger's Bagels Alley": {"lat_long": "41.66102556997014, -91.53214466877571"},
-    "Downtown Interchange": {"lat_long": "41.66021879754284, -91.53558529002565"},
-    "Old Art Building": {"lat_long": "41.664092766603446, -91.54066382344547"},
-    "Art Library": {"lat_long": "41.664942340235235, -91.54152559727487"},
-    "Macbride Hall Bus Stop": {"lat_long": "41.66240015702594, -91.53575319438954"},
-    "IMU Bridge (West)": {"lat_long": "41.66365586998751, -91.54034538258772"},
-    "Dubuque and Iowa": {"lat_long": "41.66117811815352, -91.53296118727759"},
-    "Studio Block (Linn St)": {"lat_long": "41.66068871456917, -91.53179677798737"},
-    "Outside Deadwood": {"lat_long": "41.660906892333855, -91.53301098151931"},
-    "Pentacrest Sidewalk down Clinton St": {"lat_long": "41.66074765861245, -91.53472462310174"},
-    "Outside IMU Parking Ramp": {"lat_long": "41.66330490254831, -91.53683031047069"},
-    "Pentacrest Sidewalk down S Madison": {"lat_long": "41.66026966563732, -91.53753329955802"},
-    "Hasley Hall Alley": {"lat_long": "41.66272394566868, -91.53685726606356"},
-    "Seamans Center": {"lat_long": "41.659788617542866, -91.53702891731504"},
-    "S Dodge St Bridge (South Side)": {"lat_long": "41.65200871834212, -91.52601865989175"},
-    "Lucas St": {"lat_long": "41.66361124726524, -91.52433690223455"},
-    "Governor St": {"lat_long": "41.66350923174729, -91.52269823284229"},
-    "Hall of Fame Power Boxes": {"lat_long": "41.65839564260845, -91.5336896123274"},
-    "Dodge St": {"lat_long": "41.6635299861858, -91.52579129058543"},
-    "Starbucks Block on Clinton": {"lat_long": "41.658387626869306, -91.5341522933691"},
-    "131 E Burlington": {"lat_long": "41.65771954880129, -91.53343231417539"},
-    "800 E College St": {"lat_long": "41.65947302176228, -91.5242296996856"},
-    "The (now gone) Hall of Fame": {"lat_long": "41.65808903986553, -91.53366815465631"},
-    "The Spot": {"lat_long": "41.668961125367666, -91.53402462784639"},
-    "Along Iowa River (North of IMU)": {"lat_long": "41.664088884038364, -91.53884564059987"},
-    "Currier Bridge (East Side)": {"lat_long": "41.66771497017958, -91.53618042452115"},
-    "The Rock (on the way to The Spot)": {"lat_long": "41.66800845961083, -91.53547759775056"},
-    "School of Social Work": {"lat_long": "41.66606439139739, -91.53665397243579"},
-    "Writers' Workshop": {"lat_long": "41.667262102512936, -91.53504882578854"},
-    "Stanley Roof": {"lat_long": "41.666005117145026, -91.53584549316346"}
+    "Elray's Alley": {
+        "lat_long": "41.660993040206094, -91.53263070307325",
+        "count": 219
+    },
+    "Evans St near Ralston Creek": {
+        "lat_long": "41.66206585102603, -91.52070416429022",
+        "count": 12
+    },
+    "Studio Hole": {
+        "lat_long": "41.66053427119648, -91.53232420218433",
+        "count": 102
+    },
+    "Studio 13 / Elray's Alley": {
+        "lat_long": "41.66068008286266, -91.5327704803271",
+        "count": 101
+    },
+    "Visual Arts Building": {
+        "lat_long": "41.66607121497885, -91.54201814981165",
+        "count": 5
+    },
+    "George's Best Gyros Alley": {
+        "lat_long": "41.661021627018364, -91.53245870205188",
+        "count": 71
+    },
+    "639 S Dodge St": {
+        "lat_long": "41.65251721417167, -91.5265240424214",
+        "count": 45
+    },
+    "S Dodge St Bridge (North Side)": {
+        "lat_long": "41.652385496704674, -91.52594537957746",
+        "count": 316
+    },
+    "Elray's Roof": {
+        "lat_long": "41.66085423046268, -91.53253022746361",
+        "count": 109
+    },
+    "Player's Alley": {
+        "lat_long": "41.66084024488318, -91.532379942139",
+        "count": 51
+    },
+    "S Linn St (first block off Iowa Ave)": {
+        "lat_long": "41.66090191580848, -91.53176083586986",
+        "count": 12
+    },
+    "Chemistry Building": {
+        "lat_long": "41.66462401922647, -91.53669419257812",
+        "count": 4
+    },
+    "IMU Bridge (East)": {
+        "lat_long": "41.663637195469576, -91.53891502883312",
+        "count": 26
+    },
+    "E Washington St (near US Bank)": {
+        "lat_long": "41.660248812116876, -91.5329971265928",
+        "count": 17
+    },
+    "Bruegger's Bagels Alley": {
+        "lat_long": "41.66102556997014, -91.53214466877571",
+        "count": 12
+    },
+    "Downtown Interchange": {
+        "lat_long": "41.66021879754284, -91.53558529002565",
+        "count": 1
+    },
+    "Old Art Building": {
+        "lat_long": "41.664092766603446, -91.54066382344547",
+        "count": 8
+    },
+    "Art Library": {
+        "lat_long": "41.664942340235235, -91.54152559727487",
+        "count": 7
+    },
+    "Macbride Hall Bus Stop": {
+        "lat_long": "41.66240015702594, -91.53575319438954",
+        "count": 2
+    },
+    "IMU Bridge (West)": {
+        "lat_long": "41.66365586998751, -91.54034538258772",
+        "count": 6
+    },
+    "Dubuque and Iowa": {
+        "lat_long": "41.66117811815352, -91.53296118727759",
+        "count": 4
+    },
+    "Studio Block (Linn St)": {
+        "lat_long": "41.66068871456917, -91.53179677798737",
+        "count": 4
+    },
+    "Outside Deadwood": {
+        "lat_long": "41.660906892333855, -91.53301098151931",
+        "count": 2
+    },
+    "Pentacrest Sidewalk down Clinton St": {
+        "lat_long": "41.66074765861245, -91.53472462310174",
+        "count": 15
+    },
+    "Outside IMU Parking Ramp": {
+        "lat_long": "41.66330490254831, -91.53683031047069",
+        "count": 9
+    },
+    "Pentacrest Sidewalk down S Madison": {
+        "lat_long": "41.66026966563732, -91.53753329955802",
+        "count": 1
+    },
+    "Hasley Hall Alley": {
+        "lat_long": "41.66272394566868, -91.53685726606356",
+        "count": 2
+    },
+    "Seamans Center": {
+        "lat_long": "41.659788617542866, -91.53702891731504",
+        "count": 2
+    },
+    "S Dodge St Bridge (South Side)": {
+        "lat_long": "41.65200871834212, -91.52601865989175",
+        "count": 209
+    },
+    "Lucas St": {
+        "lat_long": "41.66361124726524, -91.52433690223455",
+        "count": 36
+    },
+    "Governor St": {
+        "lat_long": "41.66350923174729, -91.52269823284229",
+        "count": 17
+    },
+    "Hall of Fame Power Boxes": {
+        "lat_long": "41.65839564260845, -91.5336896123274",
+        "count": 42
+    },
+    "Dodge St": {
+        "lat_long": "41.6635299861858, -91.52579129058543",
+        "count": 24
+    },
+    "Starbucks Block on Clinton": {
+        "lat_long": "41.658387626869306, -91.5341522933691",
+        "count": 35
+    },
+    "131 E Burlington": {
+        "lat_long": "41.65771954880129, -91.53343231417539",
+        "count": 23
+    },
+    "800 E College St": {
+        "lat_long": "41.65947302176228, -91.5242296996856",
+        "count": 12
+    },
+    "The (now gone) Hall of Fame": {
+        "lat_long": "41.65808903986553, -91.53366815465631",
+        "count": 1
+    },
+    "The Spot": {
+        "lat_long": "41.668961125367666, -91.53402462784639",
+        "count": 7
+    },
+    "Along Iowa River (North of IMU)": {
+        "lat_long": "41.664088884038364, -91.53884564059987",
+        "count": 2
+    },
+    "Currier Bridge (East Side)": {
+        "lat_long": "41.66771497017958, -91.53618042452115",
+        "count": 18
+    },
+    "The Rock (on the way to The Spot)": {
+        "lat_long": "41.66800845961083, -91.53547759775056",
+        "count": 14
+    },
+    "School of Social Work": {
+        "lat_long": "41.66606439139739, -91.53665397243579",
+        "count": 14
+    },
+    "Writers' Workshop": {
+        "lat_long": "41.667262102512936, -91.53504882578854",
+        "count": 2
+    },
+    "Stanley Roof": {
+        "lat_long": "41.666005117145026, -91.53584549316346",
+        "count": 9
+    }
 }
