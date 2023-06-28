@@ -58,14 +58,22 @@ def generate_metadata():
     for folder in os.listdir(".\photos"):
         artist_dict = {}
         artist_dict["name"] = folder
-        artist_dict["photos"] = []
+        artist_dict["photos"] = {}
         photo_count = 0
         for file in os.listdir(f".\photos\{folder}"):
             if ".jpg" not in file:
                 continue
             photo_count += 1
             name = file[:-4] #remove ".jpg"
-            artist_dict["photos"].append(name)
+
+            #add location information
+            with open(f"./photos/{folder}/{name}.json") as meta:
+                data = json.load(meta)
+                location = data["location"]
+                if location not in artist_dict["photos"].keys():
+                    artist_dict["photos"][location] = []
+            artist_dict["photos"][location].append(name)
+
         artist_dict["count"] = photo_count
         all_artists_dict[folder] = artist_dict
     obj = json.dumps(all_artists_dict)
