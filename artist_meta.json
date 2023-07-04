@@ -1,6 +1,7 @@
 {
     "111": {
         "name": "111",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -10,6 +11,7 @@
     },
     "1312": {
         "name": "1312",
+        "favorite": false,
         "photos": {
             "Evans St near Ralston Creek": [
                 "PREVIEW"
@@ -19,6 +21,7 @@
     },
     "3ADO": {
         "name": "3ADO",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -28,6 +31,7 @@
     },
     "ACAB": {
         "name": "ACAB",
+        "favorite": false,
         "photos": {
             "The Spot": [
                 "PREVIEW"
@@ -37,6 +41,7 @@
     },
     "ACBD": {
         "name": "ACBD",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9624",
@@ -48,6 +53,7 @@
     },
     "ACE": {
         "name": "ACE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -57,6 +63,7 @@
     },
     "ADC": {
         "name": "ADC",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -66,6 +73,7 @@
     },
     "AE": {
         "name": "AE",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -75,6 +83,7 @@
     },
     "AESOP": {
         "name": "AESOP",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "PREVIEW"
@@ -84,6 +93,7 @@
     },
     "AFTER": {
         "name": "AFTER",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -93,6 +103,7 @@
     },
     "AP": {
         "name": "AP",
+        "favorite": false,
         "photos": {
             "Visual Arts Building": [
                 "IMG_8426",
@@ -103,6 +114,7 @@
     },
     "APE": {
         "name": "APE",
+        "favorite": true,
         "photos": {
             "George's Best Gyros Alley": [
                 "IMG_8628",
@@ -185,6 +197,7 @@
     },
     "APW": {
         "name": "APW",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -194,6 +207,7 @@
     },
     "AS": {
         "name": "AS",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -203,6 +217,7 @@
     },
     "ASC": {
         "name": "ASC",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8569"
@@ -225,6 +240,7 @@
     },
     "BAD FAITH": {
         "name": "BAD FAITH",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "PREVIEW"
@@ -234,6 +250,7 @@
     },
     "BASIC": {
         "name": "BASIC",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -243,6 +260,7 @@
     },
     "BASIL": {
         "name": "BASIL",
+        "favorite": false,
         "photos": {
             "Evans St near Ralston Creek": [
                 "PREVIEW"
@@ -252,6 +270,7 @@
     },
     "BATMAN": {
         "name": "BATMAN",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -261,6 +280,7 @@
     },
     "BEATS": {
         "name": "BEATS",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -270,6 +290,7 @@
     },
     "BIRD BOY BOP": {
         "name": "BIRD BOY BOP",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8495"
@@ -285,6 +306,7 @@
     },
     "BLM": {
         "name": "BLM",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0009"
@@ -301,6 +323,7 @@
     },
     "BLOOZE": {
         "name": "BLOOZE",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -310,6 +333,7 @@
     },
     "BOMER": {
         "name": "BOMER",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -319,6 +343,7 @@
     },
     "BONE": {
         "name": "BONE",
+        "favorite": false,
         "photos": {
             "639 S Dodge St": [
                 "IMG_9141",
@@ -333,6 +358,7 @@
     },
     "books": {
         "name": "books",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8769 - Copy"
@@ -345,6 +371,7 @@
     },
     "BOY": {
         "name": "BOY",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8784 - Copy",
@@ -358,6 +385,7 @@
     },
     "BTC": {
         "name": "BTC",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "IMG_8658",
@@ -402,6 +430,7 @@
     },
     "BURZ": {
         "name": "BURZ",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -411,6 +440,7 @@
     },
     "BZERK": {
         "name": "BZERK",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "IMG_8603",
@@ -422,6 +452,7 @@
     },
     "CAPER": {
         "name": "CAPER",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -431,6 +462,7 @@
     },
     "CARBS": {
         "name": "CARBS",
+        "favorite": false,
         "photos": {
             "S Linn St (first block off Iowa Ave)": [
                 "IMG_9071",
@@ -444,6 +476,7 @@
     },
     "CARE": {
         "name": "CARE",
+        "favorite": false,
         "photos": {
             "Chemistry Building": [
                 "IMG_9500"
@@ -456,6 +489,7 @@
     },
     "CARES": {
         "name": "CARES",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9669",
@@ -467,6 +501,7 @@
     },
     "CAUSE": {
         "name": "CAUSE",
+        "favorite": false,
         "photos": {
             "Chemistry Building": [
                 "IMG_9504"
@@ -485,6 +520,7 @@
     },
     "CAWZ": {
         "name": "CAWZ",
+        "favorite": false,
         "photos": {
             "Dodge St": [
                 "PREVIEW"
@@ -494,6 +530,7 @@
     },
     "CEPOS": {
         "name": "CEPOS",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8802",
@@ -529,6 +566,7 @@
     },
     "CERGK": {
         "name": "CERGK",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8694",
@@ -539,6 +577,7 @@
     },
     "CERO": {
         "name": "CERO",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8823",
@@ -552,6 +591,7 @@
     },
     "CEYN": {
         "name": "CEYN",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9268",
@@ -567,6 +607,7 @@
     },
     "CHAM": {
         "name": "CHAM",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -576,6 +617,7 @@
     },
     "CHEMO": {
         "name": "CHEMO",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "IMG_8955"
@@ -595,6 +637,7 @@
     },
     "CHEWBACCA": {
         "name": "CHEWBACCA",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -604,6 +647,7 @@
     },
     "CHF": {
         "name": "CHF",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0003 - Copy"
@@ -636,6 +680,7 @@
     },
     "CHOOCH": {
         "name": "CHOOCH",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8915"
@@ -648,6 +693,7 @@
     },
     "CHUNK": {
         "name": "CHUNK",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "IMG_8395",
@@ -658,6 +704,7 @@
     },
     "CLOVER": {
         "name": "CLOVER",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8523",
@@ -674,6 +721,7 @@
     },
     "CMC": {
         "name": "CMC",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8550",
@@ -687,6 +735,7 @@
     },
     "CRESPO": {
         "name": "CRESPO",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -696,6 +745,7 @@
     },
     "CRMOS": {
         "name": "CRMOS",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "IMG_8613"
@@ -716,6 +766,7 @@
     },
     "CRSCK": {
         "name": "CRSCK",
+        "favorite": true,
         "photos": {
             "The Spot": [
                 "IMG_0084",
@@ -767,6 +818,7 @@
     },
     "CRUX": {
         "name": "CRUX",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -776,6 +828,7 @@
     },
     "CVDIG": {
         "name": "CVDIG",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -785,6 +838,7 @@
     },
     "CYLIN": {
         "name": "CYLIN",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -794,6 +848,7 @@
     },
     "CZAR": {
         "name": "CZAR",
+        "favorite": false,
         "photos": {
             "E Washington St (near US Bank)": [
                 "PREVIEW"
@@ -803,6 +858,7 @@
     },
     "D20": {
         "name": "D20",
+        "favorite": false,
         "photos": {
             "School of Social Work": [
                 "IMG_0144"
@@ -841,6 +897,7 @@
     },
     "DA FUK": {
         "name": "DA FUK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9323",
@@ -851,6 +908,7 @@
     },
     "DAT": {
         "name": "DAT",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -860,6 +918,7 @@
     },
     "DBC": {
         "name": "DBC",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -869,6 +928,7 @@
     },
     "DEATH BIND": {
         "name": "DEATH BIND",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -878,6 +938,7 @@
     },
     "DEK": {
         "name": "DEK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9164",
@@ -906,6 +967,7 @@
     },
     "DEMO": {
         "name": "DEMO",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -915,6 +977,7 @@
     },
     "DER": {
         "name": "DER",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -924,6 +987,7 @@
     },
     "DOMICS": {
         "name": "DOMICS",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8754 - Copy",
@@ -956,6 +1020,7 @@
     },
     "DRAGON": {
         "name": "DRAGON",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -965,6 +1030,7 @@
     },
     "DROP": {
         "name": "DROP",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9360"
@@ -977,6 +1043,7 @@
     },
     "DUD": {
         "name": "DUD",
+        "favorite": false,
         "photos": {
             "800 E College St": [
                 "PREVIEW"
@@ -986,6 +1053,7 @@
     },
     "DYE": {
         "name": "DYE",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -995,6 +1063,7 @@
     },
     "EAKS": {
         "name": "EAKS",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "IMG_9006",
@@ -1005,6 +1074,7 @@
     },
     "EGG LEG": {
         "name": "EGG LEG",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8295",
@@ -1022,6 +1092,7 @@
     },
     "EL BARTO": {
         "name": "EL BARTO",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8526"
@@ -1034,6 +1105,7 @@
     },
     "EMCK": {
         "name": "EMCK",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "PREVIEW"
@@ -1043,6 +1115,7 @@
     },
     "END": {
         "name": "END",
+        "favorite": true,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0051",
@@ -1103,6 +1176,7 @@
     },
     "ENO": {
         "name": "ENO",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_9962"
@@ -1115,6 +1189,7 @@
     },
     "ERYE": {
         "name": "ERYE",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -1124,6 +1199,7 @@
     },
     "ESTAS": {
         "name": "ESTAS",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -1133,6 +1209,7 @@
     },
     "EXCEL": {
         "name": "EXCEL",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -1142,6 +1219,7 @@
     },
     "FAR$Y": {
         "name": "FAR$Y",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -1151,6 +1229,7 @@
     },
     "FBOMB": {
         "name": "FBOMB",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "IMG_8636",
@@ -1170,6 +1249,7 @@
     },
     "Feet": {
         "name": "Feet",
+        "favorite": false,
         "photos": {
             "The Rock (on the way to The Spot)": [
                 "PREVIEW"
@@ -1179,6 +1259,7 @@
     },
     "FISH GLUE": {
         "name": "FISH GLUE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG444",
@@ -1193,6 +1274,7 @@
     },
     "FM": {
         "name": "FM",
+        "favorite": false,
         "photos": {
             "131 E Burlington": [
                 "PREVIEW"
@@ -1202,6 +1284,7 @@
     },
     "FYRE": {
         "name": "FYRE",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8574",
@@ -1227,6 +1310,7 @@
     },
     "GRO": {
         "name": "GRO",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -1236,6 +1320,7 @@
     },
     "GUROS": {
         "name": "GUROS",
+        "favorite": true,
         "photos": {
             "E Washington St (near US Bank)": [
                 "IMG_9053"
@@ -1266,6 +1351,7 @@
     },
     "GUSH": {
         "name": "GUSH",
+        "favorite": true,
         "photos": {
             "Studio Hole": [
                 "IMG_84913"
@@ -1319,6 +1405,7 @@
     },
     "HEAVY": {
         "name": "HEAVY",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -1328,6 +1415,7 @@
     },
     "HN": {
         "name": "HN",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9448",
@@ -1338,6 +1426,7 @@
     },
     "HNIC": {
         "name": "HNIC",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "PREVIEW"
@@ -1347,6 +1436,7 @@
     },
     "HOUND HANDS": {
         "name": "HOUND HANDS",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -1356,6 +1446,7 @@
     },
     "Iris": {
         "name": "Iris",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8736",
@@ -1379,6 +1470,7 @@
     },
     "JAGER": {
         "name": "JAGER",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -1388,6 +1480,7 @@
     },
     "JD": {
         "name": "JD",
+        "favorite": false,
         "photos": {
             "Hall of Fame Power Boxes": [
                 "IMG_9904",
@@ -1401,6 +1494,7 @@
     },
     "JK": {
         "name": "JK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -1410,6 +1504,7 @@
     },
     "JL": {
         "name": "JL",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -1419,6 +1514,7 @@
     },
     "JOEGZ": {
         "name": "JOEGZ",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -1428,6 +1524,7 @@
     },
     "JSTR": {
         "name": "JSTR",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0056 - Copy"
@@ -1461,6 +1558,7 @@
     },
     "JT": {
         "name": "JT",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -1470,6 +1568,7 @@
     },
     "JUPE": {
         "name": "JUPE",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0052"
@@ -1482,6 +1581,7 @@
     },
     "KEOH": {
         "name": "KEOH",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -1491,6 +1591,7 @@
     },
     "KHK": {
         "name": "KHK",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -1500,6 +1601,7 @@
     },
     "Kilroy": {
         "name": "Kilroy",
+        "favorite": false,
         "photos": {
             "Stanley Roof": [
                 "IMG_0132"
@@ -1512,6 +1614,7 @@
     },
     "KLEVER77": {
         "name": "KLEVER77",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "IMG_8957"
@@ -1524,6 +1627,7 @@
     },
     "KLIP": {
         "name": "KLIP",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -1533,6 +1637,7 @@
     },
     "KOBE": {
         "name": "KOBE",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -1542,6 +1647,7 @@
     },
     "KONER": {
         "name": "KONER",
+        "favorite": false,
         "photos": {
             "131 E Burlington": [
                 "PREVIEW"
@@ -1551,6 +1657,7 @@
     },
     "KONFLIKT": {
         "name": "KONFLIKT",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -1560,6 +1667,7 @@
     },
     "KOTO": {
         "name": "KOTO",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8303",
@@ -1576,6 +1684,7 @@
     },
     "KRAKN": {
         "name": "KRAKN",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8261",
@@ -1620,6 +1729,7 @@
     },
     "KRYOS": {
         "name": "KRYOS",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -1629,6 +1739,7 @@
     },
     "KT": {
         "name": "KT",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -1638,6 +1749,7 @@
     },
     "LADY": {
         "name": "LADY",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -1647,6 +1759,7 @@
     },
     "LANK": {
         "name": "LANK",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -1656,6 +1769,7 @@
     },
     "LAST": {
         "name": "LAST",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "IMG_8945",
@@ -1673,6 +1787,7 @@
     },
     "LDC": {
         "name": "LDC",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -1682,6 +1797,7 @@
     },
     "LEAMER": {
         "name": "LEAMER",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -1691,6 +1807,7 @@
     },
     "LEAP": {
         "name": "LEAP",
+        "favorite": false,
         "photos": {
             "639 S Dodge St": [
                 "PREVIEW"
@@ -1700,6 +1817,7 @@
     },
     "LEMIK": {
         "name": "LEMIK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9286",
@@ -1715,6 +1833,7 @@
     },
     "Leon": {
         "name": "Leon",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -1724,6 +1843,7 @@
     },
     "LHK": {
         "name": "LHK",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -1733,6 +1853,7 @@
     },
     "LINK HARDON": {
         "name": "LINK HARDON",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9734",
@@ -1743,6 +1864,7 @@
     },
     "LIZARD": {
         "name": "LIZARD",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "PREVIEW"
@@ -1752,6 +1874,7 @@
     },
     "LOKUP": {
         "name": "LOKUP",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8336",
@@ -1770,6 +1893,7 @@
     },
     "LOPUR": {
         "name": "LOPUR",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9200",
@@ -1799,6 +1923,7 @@
     },
     "LTB": {
         "name": "LTB",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9269",
@@ -1809,6 +1934,7 @@
     },
     "LUIE": {
         "name": "LUIE",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -1818,6 +1944,7 @@
     },
     "MAD": {
         "name": "MAD",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9553",
@@ -1831,6 +1958,7 @@
     },
     "MAL": {
         "name": "MAL",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9393",
@@ -1841,6 +1969,7 @@
     },
     "MALVO": {
         "name": "MALVO",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8320",
@@ -1858,6 +1987,7 @@
     },
     "MAS": {
         "name": "MAS",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -1867,6 +1997,7 @@
     },
     "MASK": {
         "name": "MASK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9441",
@@ -1880,6 +2011,7 @@
     },
     "MAZE": {
         "name": "MAZE",
+        "favorite": false,
         "photos": {
             "Chemistry Building": [
                 "PREVIEW"
@@ -1889,6 +2021,7 @@
     },
     "MBK": {
         "name": "MBK",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8514",
@@ -1902,6 +2035,7 @@
     },
     "MBS": {
         "name": "MBS",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -1911,6 +2045,7 @@
     },
     "MBYRK": {
         "name": "MBYRK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -1920,6 +2055,7 @@
     },
     "ME": {
         "name": "ME",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9647",
@@ -1933,6 +2069,7 @@
     },
     "MEDZ": {
         "name": "MEDZ",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -1942,6 +2079,7 @@
     },
     "MEOW": {
         "name": "MEOW",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9740",
@@ -1954,6 +2092,7 @@
     },
     "Messages": {
         "name": "Messages",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0056",
@@ -2102,6 +2241,7 @@
     },
     "meus": {
         "name": "meus",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -2111,6 +2251,7 @@
     },
     "MF DOOM": {
         "name": "MF DOOM",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8559"
@@ -2123,6 +2264,7 @@
     },
     "MIKES": {
         "name": "MIKES",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -2132,6 +2274,7 @@
     },
     "MIPZ": {
         "name": "MIPZ",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -2141,6 +2284,7 @@
     },
     "MKNER": {
         "name": "MKNER",
+        "favorite": false,
         "photos": {
             "639 S Dodge St": [
                 "PREVIEW"
@@ -2150,6 +2294,7 @@
     },
     "MOD": {
         "name": "MOD",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0007",
@@ -2181,6 +2326,7 @@
     },
     "MOGAN": {
         "name": "MOGAN",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -2190,6 +2336,7 @@
     },
     "MONE": {
         "name": "MONE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_1",
@@ -2246,6 +2393,7 @@
     },
     "MOODY": {
         "name": "MOODY",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -2255,6 +2403,7 @@
     },
     "MOTION": {
         "name": "MOTION",
+        "favorite": false,
         "photos": {
             "IMU Bridge (West)": [
                 "PREVIEW"
@@ -2264,6 +2413,7 @@
     },
     "MOTORBREATH": {
         "name": "MOTORBREATH",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -2273,6 +2423,7 @@
     },
     "MR GERY": {
         "name": "MR GERY",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -2282,6 +2433,7 @@
     },
     "MUER": {
         "name": "MUER",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8348",
@@ -2311,6 +2463,7 @@
     },
     "MUNE": {
         "name": "MUNE",
+        "favorite": false,
         "photos": {
             "E Washington St (near US Bank)": [
                 "PREVIEW"
@@ -2320,6 +2473,7 @@
     },
     "MUNER": {
         "name": "MUNER",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "IMG_9883"
@@ -2335,6 +2489,7 @@
     },
     "MYSTIC": {
         "name": "MYSTIC",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -2344,6 +2499,7 @@
     },
     "NADA": {
         "name": "NADA",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -2353,6 +2509,7 @@
     },
     "NASA": {
         "name": "NASA",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -2362,6 +2519,7 @@
     },
     "NEO": {
         "name": "NEO",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8517"
@@ -2383,6 +2541,7 @@
     },
     "NOCEUR": {
         "name": "NOCEUR",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -2392,6 +2551,7 @@
     },
     "NONE": {
         "name": "NONE",
+        "favorite": false,
         "photos": {
             "131 E Burlington": [
                 "PREVIEW"
@@ -2401,6 +2561,7 @@
     },
     "NOPERS": {
         "name": "NOPERS",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "IMG_8616"
@@ -2413,6 +2574,7 @@
     },
     "NTC": {
         "name": "NTC",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0003"
@@ -2472,6 +2634,7 @@
     },
     "OAF": {
         "name": "OAF",
+        "favorite": false,
         "photos": {
             "The Rock (on the way to The Spot)": [
                 "IMG_0075"
@@ -2487,6 +2650,7 @@
     },
     "OBSCENE": {
         "name": "OBSCENE",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "PREVIEW"
@@ -2496,6 +2660,7 @@
     },
     "OFTR": {
         "name": "OFTR",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9573 - Copy"
@@ -2508,6 +2673,7 @@
     },
     "OFTRK": {
         "name": "OFTRK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -2517,6 +2683,7 @@
     },
     "OINK": {
         "name": "OINK",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "IMG_8944",
@@ -2528,6 +2695,7 @@
     },
     "Oink Oink": {
         "name": "Oink Oink",
+        "favorite": false,
         "photos": {
             "Bruegger's Bagels Alley": [
                 "IMG_8371",
@@ -2549,6 +2717,7 @@
     },
     "OK": {
         "name": "OK",
+        "favorite": true,
         "photos": {
             "School of Social Work": [
                 "IMG_0143"
@@ -2646,6 +2815,7 @@
     },
     "OMBOY": {
         "name": "OMBOY",
+        "favorite": false,
         "photos": {
             "639 S Dodge St": [
                 "IMG_9131",
@@ -2659,6 +2829,7 @@
     },
     "OMEN": {
         "name": "OMEN",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "PREVIEW"
@@ -2668,6 +2839,7 @@
     },
     "One Time Writers": {
         "name": "One Time Writers",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0059",
@@ -2748,6 +2920,7 @@
     },
     "OSM": {
         "name": "OSM",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -2757,6 +2930,7 @@
     },
     "OSMER": {
         "name": "OSMER",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8764",
@@ -2780,6 +2954,7 @@
     },
     "OST": {
         "name": "OST",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -2789,6 +2964,7 @@
     },
     "OZO": {
         "name": "OZO",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0005"
@@ -2826,6 +3002,7 @@
     },
     "PCM": {
         "name": "PCM",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "PREVIEW"
@@ -2835,6 +3012,7 @@
     },
     "PERO": {
         "name": "PERO",
+        "favorite": false,
         "photos": {
             "Hall of Fame Power Boxes": [
                 "PREVIEW"
@@ -2844,6 +3022,7 @@
     },
     "PONG": {
         "name": "PONG",
+        "favorite": false,
         "photos": {
             "Hall of Fame Power Boxes": [
                 "PREVIEW"
@@ -2853,6 +3032,7 @@
     },
     "Primo": {
         "name": "Primo",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8723",
@@ -2866,6 +3046,7 @@
     },
     "PSYCH": {
         "name": "PSYCH",
+        "favorite": false,
         "photos": {
             "Studio Block (Linn St)": [
                 "PREVIEW"
@@ -2875,6 +3056,7 @@
     },
     "PTCH": {
         "name": "PTCH",
+        "favorite": false,
         "photos": {
             "Old Art Building": [
                 "PREVIEW"
@@ -2884,6 +3066,7 @@
     },
     "PUFF": {
         "name": "PUFF",
+        "favorite": true,
         "photos": {
             "Studio Hole": [
                 "IMG_8509",
@@ -2953,6 +3136,7 @@
     },
     "PUR": {
         "name": "PUR",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9182",
@@ -2963,6 +3147,7 @@
     },
     "PYRO": {
         "name": "PYRO",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "IMG_8634",
@@ -2980,6 +3165,7 @@
     },
     "RAID": {
         "name": "RAID",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -2989,6 +3175,7 @@
     },
     "RANGE": {
         "name": "RANGE",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -2998,6 +3185,7 @@
     },
     "RAPID": {
         "name": "RAPID",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9627",
@@ -3018,6 +3206,7 @@
     },
     "RATKID": {
         "name": "RATKID",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8787",
@@ -3029,6 +3218,7 @@
     },
     "RATS": {
         "name": "RATS",
+        "favorite": false,
         "photos": {
             "Evans St near Ralston Creek": [
                 "PREVIEW"
@@ -3038,6 +3228,7 @@
     },
     "REAP": {
         "name": "REAP",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8826",
@@ -3051,6 +3242,7 @@
     },
     "REFLEX": {
         "name": "REFLEX",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -3060,6 +3252,7 @@
     },
     "RIP": {
         "name": "RIP",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0053"
@@ -3082,6 +3275,7 @@
     },
     "RIVER": {
         "name": "RIVER",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "PREVIEW"
@@ -3091,6 +3285,7 @@
     },
     "ROPE": {
         "name": "ROPE",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -3100,6 +3295,7 @@
     },
     "ROZAU": {
         "name": "ROZAU",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -3109,6 +3305,7 @@
     },
     "SAIL": {
         "name": "SAIL",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -3118,6 +3315,7 @@
     },
     "SANE": {
         "name": "SANE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3127,6 +3325,7 @@
     },
     "SANO": {
         "name": "SANO",
+        "favorite": false,
         "photos": {
             "Pentacrest Sidewalk down Clinton St": [
                 "IMG_9088",
@@ -3140,6 +3339,7 @@
     },
     "SANONE": {
         "name": "SANONE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3149,6 +3349,7 @@
     },
     "SARO": {
         "name": "SARO",
+        "favorite": false,
         "photos": {
             "Dubuque and Iowa": [
                 "PREVIEW"
@@ -3158,6 +3359,7 @@
     },
     "SAYNT": {
         "name": "SAYNT",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -3167,6 +3369,7 @@
     },
     "SAYSO": {
         "name": "SAYSO",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9595 - Copy",
@@ -3178,6 +3381,7 @@
     },
     "SDE": {
         "name": "SDE",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -3187,6 +3391,7 @@
     },
     "SEVER": {
         "name": "SEVER",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3196,6 +3401,7 @@
     },
     "SFZ": {
         "name": "SFZ",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -3205,6 +3411,7 @@
     },
     "SHB": {
         "name": "SHB",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3214,6 +3421,7 @@
     },
     "SHELA": {
         "name": "SHELA",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -3223,6 +3431,7 @@
     },
     "SICK!": {
         "name": "SICK!",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -3232,6 +3441,7 @@
     },
     "SIZE": {
         "name": "SIZE",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -3241,6 +3451,7 @@
     },
     "SKWID": {
         "name": "SKWID",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9711",
@@ -3251,6 +3462,7 @@
     },
     "SLOPE": {
         "name": "SLOPE",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -3260,6 +3472,7 @@
     },
     "SLOUGH FAKE": {
         "name": "SLOUGH FAKE",
+        "favorite": false,
         "photos": {
             "Governor St": [
                 "PREVIEW"
@@ -3269,6 +3482,7 @@
     },
     "SLOW": {
         "name": "SLOW",
+        "favorite": false,
         "photos": {
             "Outside IMU Parking Ramp": [
                 "IMG_9507"
@@ -3284,6 +3498,7 @@
     },
     "SLUG": {
         "name": "SLUG",
+        "favorite": false,
         "photos": {
             "S Linn St (first block off Iowa Ave)": [
                 "PREVIEW"
@@ -3293,6 +3508,7 @@
     },
     "SMBKO": {
         "name": "SMBKO",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -3302,6 +3518,7 @@
     },
     "SMJO": {
         "name": "SMJO",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8551",
@@ -3312,6 +3529,7 @@
     },
     "SMOOK": {
         "name": "SMOOK",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8717",
@@ -3334,6 +3552,7 @@
     },
     "Snotnose": {
         "name": "Snotnose",
+        "favorite": false,
         "photos": {
             "Player's Alley": [
                 "IMG_8575"
@@ -3365,6 +3584,7 @@
     },
     "SOLO": {
         "name": "SOLO",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -3374,6 +3594,7 @@
     },
     "SOND": {
         "name": "SOND",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8753",
@@ -3385,6 +3606,7 @@
     },
     "SOPER": {
         "name": "SOPER",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9239",
@@ -3398,6 +3620,7 @@
     },
     "SPOOK": {
         "name": "SPOOK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -3407,6 +3630,7 @@
     },
     "SPUD": {
         "name": "SPUD",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3416,6 +3640,7 @@
     },
     "SRB": {
         "name": "SRB",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3425,6 +3650,7 @@
     },
     "SSL": {
         "name": "SSL",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9356",
@@ -3436,6 +3662,7 @@
     },
     "STANCE": {
         "name": "STANCE",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3445,6 +3672,7 @@
     },
     "STANG": {
         "name": "STANG",
+        "favorite": false,
         "photos": {
             "Hall of Fame Power Boxes": [
                 "PREVIEW"
@@ -3454,6 +3682,7 @@
     },
     "STARIE": {
         "name": "STARIE",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -3463,6 +3692,7 @@
     },
     "STARZ": {
         "name": "STARZ",
+        "favorite": false,
         "photos": {
             "Bruegger's Bagels Alley": [
                 "PREVIEW"
@@ -3472,6 +3702,7 @@
     },
     "STEPS": {
         "name": "STEPS",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9385",
@@ -3485,6 +3716,7 @@
     },
     "STOK": {
         "name": "STOK",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -3494,6 +3726,7 @@
     },
     "STOKE": {
         "name": "STOKE",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -3503,6 +3736,7 @@
     },
     "STOKER": {
         "name": "STOKER",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0011"
@@ -3522,6 +3756,7 @@
     },
     "STONE": {
         "name": "STONE",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9255"
@@ -3534,6 +3769,7 @@
     },
     "STONED": {
         "name": "STONED",
+        "favorite": false,
         "photos": {
             "Elray's Roof": [
                 "PREVIEW"
@@ -3543,6 +3779,7 @@
     },
     "STOP NATO": {
         "name": "STOP NATO",
+        "favorite": false,
         "photos": {
             "Pentacrest Sidewalk down S Madison": [
                 "PREVIEW"
@@ -3552,6 +3789,7 @@
     },
     "Streetart": {
         "name": "Streetart",
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0062"
@@ -3725,6 +3963,7 @@
     },
     "STRUM": {
         "name": "STRUM",
+        "favorite": false,
         "photos": {
             "Visual Arts Building": [
                 "PREVIEW"
@@ -3734,6 +3973,7 @@
     },
     "STUPID": {
         "name": "STUPID",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8866",
@@ -3762,6 +4002,7 @@
     },
     "STZ": {
         "name": "STZ",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "IMG_9880",
@@ -3776,6 +4017,7 @@
     },
     "SUCK": {
         "name": "SUCK",
+        "favorite": false,
         "photos": {
             "800 E College St": [
                 "PREVIEW"
@@ -3785,6 +4027,7 @@
     },
     "SUK": {
         "name": "SUK",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -3794,6 +4037,7 @@
     },
     "SUP": {
         "name": "SUP",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8265",
@@ -3826,6 +4070,7 @@
     },
     "SUPER": {
         "name": "SUPER",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -3835,6 +4080,7 @@
     },
     "Syddus": {
         "name": "Syddus",
+        "favorite": false,
         "photos": {
             "IMU Bridge (East)": [
                 "PREVIEW"
@@ -3844,6 +4090,7 @@
     },
     "TAROT": {
         "name": "TAROT",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_9814",
@@ -3854,6 +4101,7 @@
     },
     "TC": {
         "name": "TC",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8491"
@@ -3903,6 +4151,7 @@
     },
     "TCK": {
         "name": "TCK",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -3912,6 +4161,7 @@
     },
     "TD": {
         "name": "TD",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8869",
@@ -3925,6 +4175,7 @@
     },
     "TDBF": {
         "name": "TDBF",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -3934,6 +4185,7 @@
     },
     "TEEKO": {
         "name": "TEEKO",
+        "favorite": false,
         "photos": {
             "Starbucks Block on Clinton": [
                 "PREVIEW"
@@ -3943,6 +4195,7 @@
     },
     "TENZO": {
         "name": "TENZO",
+        "favorite": false,
         "photos": {
             "Hall of Fame Power Boxes": [
                 "PREVIEW"
@@ -3952,6 +4205,7 @@
     },
     "THRIVE": {
         "name": "THRIVE",
+        "favorite": false,
         "photos": {
             "S Linn St (first block off Iowa Ave)": [
                 "PREVIEW"
@@ -3961,6 +4215,7 @@
     },
     "TM": {
         "name": "TM",
+        "favorite": false,
         "photos": {
             "Evans St near Ralston Creek": [
                 "PREVIEW"
@@ -3970,6 +4225,7 @@
     },
     "TRIPPY HIPPY": {
         "name": "TRIPPY HIPPY",
+        "favorite": false,
         "photos": {
             "Stanley Roof": [
                 "PREVIEW"
@@ -3979,6 +4235,7 @@
     },
     "TYI": {
         "name": "TYI",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_2222",
@@ -3989,6 +4246,7 @@
     },
     "UDEEZY": {
         "name": "UDEEZY",
+        "favorite": false,
         "photos": {
             "131 E Burlington": [
                 "PREVIEW"
@@ -3998,6 +4256,7 @@
     },
     "UEUR": {
         "name": "UEUR",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8707",
@@ -4034,6 +4293,7 @@
     },
     "UEWP": {
         "name": "UEWP",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -4043,6 +4303,7 @@
     },
     "Unknown": {
         "name": "Unknown",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0004",
@@ -4370,6 +4631,7 @@
     },
     "VAMPS": {
         "name": "VAMPS",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8318",
@@ -4390,6 +4652,7 @@
     },
     "VERVE": {
         "name": "VERVE",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -4399,6 +4662,7 @@
     },
     "VETOS": {
         "name": "VETOS",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "IMG_8311",
@@ -4416,6 +4680,7 @@
     },
     "VICKROY": {
         "name": "VICKROY",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8784"
@@ -4434,6 +4699,7 @@
     },
     "Video Sloth": {
         "name": "Video Sloth",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8914"
@@ -4446,6 +4712,7 @@
     },
     "VLAD": {
         "name": "VLAD",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "PREVIEW"
@@ -4455,6 +4722,7 @@
     },
     "VTS": {
         "name": "VTS",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -4464,6 +4732,7 @@
     },
     "WAIT": {
         "name": "WAIT",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "IMG_8814",
@@ -4475,6 +4744,7 @@
     },
     "WERDZ": {
         "name": "WERDZ",
+        "favorite": false,
         "photos": {
             "131 E Burlington": [
                 "PREVIEW"
@@ -4484,6 +4754,7 @@
     },
     "WOK": {
         "name": "WOK",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -4493,6 +4764,7 @@
     },
     "WOLFISM": {
         "name": "WOLFISM",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (South Side)": [
                 "IMG_9592",
@@ -4506,6 +4778,7 @@
     },
     "WOMP": {
         "name": "WOMP",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -4515,6 +4788,7 @@
     },
     "WQL": {
         "name": "WQL",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "PREVIEW"
@@ -4524,6 +4798,7 @@
     },
     "WRLDZ": {
         "name": "WRLDZ",
+        "favorite": false,
         "photos": {
             "School of Social Work": [
                 "IMG_0114",
@@ -4545,6 +4820,7 @@
     },
     "XBKI": {
         "name": "XBKI",
+        "favorite": false,
         "photos": {
             "Studio 13 / Elray's Alley": [
                 "PREVIEW"
@@ -4554,6 +4830,7 @@
     },
     "YOK": {
         "name": "YOK",
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "PREVIEW"
@@ -4563,6 +4840,7 @@
     },
     "YUFOR": {
         "name": "YUFOR",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"
@@ -4572,6 +4850,7 @@
     },
     "ZAC": {
         "name": "ZAC",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -4581,6 +4860,7 @@
     },
     "ZEK": {
         "name": "ZEK",
+        "favorite": false,
         "photos": {
             "Evans St near Ralston Creek": [
                 "PREVIEW"
@@ -4590,6 +4870,7 @@
     },
     "ZERN": {
         "name": "ZERN",
+        "favorite": false,
         "photos": {
             "Lucas St": [
                 "IMG_0003 - Copy (2)"
@@ -4619,6 +4900,7 @@
     },
     "ZERTRO": {
         "name": "ZERTRO",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -4628,6 +4910,7 @@
     },
     "ZESL": {
         "name": "ZESL",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "IMG_9289",
@@ -4656,6 +4939,7 @@
     },
     "ZESTRO": {
         "name": "ZESTRO",
+        "favorite": false,
         "photos": {
             "S Dodge St Bridge (North Side)": [
                 "PREVIEW"
@@ -4665,6 +4949,7 @@
     },
     "ZONO": {
         "name": "ZONO",
+        "favorite": false,
         "photos": {
             "Elray's Alley": [
                 "PREVIEW"
@@ -4674,6 +4959,7 @@
     },
     "ZOUE": {
         "name": "ZOUE",
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "PREVIEW"

@@ -58,8 +58,10 @@ def generate_metadata():
     for folder in os.listdir(".\photos"):
         artist_dict = {}
         artist_dict["name"] = folder
-        artist_dict["photos"] = {}
+        artist_dict["favorite"] = folder in IMPORTANT_ARTIST_LIST #if the artist gets their own page art and description. list is hardcoded below.
+
         photo_count = 0
+        artist_dict["photos"] = {}
         for file in os.listdir(f".\photos\{folder}"):
             if ".jpg" not in file:
                 continue
@@ -115,12 +117,33 @@ def generate_location_json():
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
 
+def generate_favorite_artist_json():
+    print("Generating Favorite Artist File")
+    with open("./favorites.json") as file:
+        data = json.load(file)
+
+    for artist in IMPORTANT_ARTIST_LIST:
+        if artist not in data.keys():
+            data[artist] = {}
+            data[artist]["description"] = ""
+            data[artist]["tags_with"] = ""
+            data[artist]["groups"] = ""
+    
+    with open("./favorites.json", "w") as file:
+        file.write(json.dumps(data))
+
+
+IMPORTANT_ARTIST_LIST = ["GUSH"]
 
 if __name__ == "__main__":
-    rename_preview()
-    get_rid_of_JPGs()
+    #rename_preview()
+    #get_rid_of_JPGs()
     #files are renamed BEFORE anything else is generated, keep this order.
-    generate_thumbnails()
-    generate_metadata()
-    generate_location_json()
+    #generate_thumbnails()
+    #generate_metadata()
+    #generate_location_json()
+    generate_favorite_artist_json()
     pass
+
+
+#How do we store the favorite data (artist notes, unique photo, etc)
