@@ -34,8 +34,8 @@ def generate_thumbnails():
         photos = os.listdir(path)
         for img_file in photos:
             image_name = img_file.split(".")[0]
-            #skip jsons...................thumbnails.................and images with thumbnails already
-            if (("json" in img_file) or ("thumbnail" in img_file) or (f"{image_name}_thumbnail.jpeg" in photos)):
+            #skip jsons...................thumbnails.................images with thumbnails already................and the favorite artist images
+            if (("json" in img_file) or ("thumbnail" in img_file) or (f"{image_name}_thumbnail.jpeg" in photos) or image_name == dir_name):
                 continue
             new_path = os.path.join(path, img_file)
             image = Image.open(new_path)
@@ -136,14 +136,11 @@ def generate_favorite_artist_json():
 IMPORTANT_ARTIST_LIST = ["GUSH"]
 
 if __name__ == "__main__":
-    #rename_preview()
-    #get_rid_of_JPGs()
+    rename_preview()
+    get_rid_of_JPGs()
     #files are renamed BEFORE anything else is generated, keep this order.
-    #generate_thumbnails()
-    #generate_metadata()
-    #generate_location_json()
+    generate_thumbnails()
+    generate_metadata()
+    generate_location_json()
     generate_favorite_artist_json()
     pass
-
-
-#How do we store the favorite data (artist notes, unique photo, etc)

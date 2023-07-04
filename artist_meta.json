@@ -114,7 +114,7 @@
     },
     "APE": {
         "name": "APE",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "George's Best Gyros Alley": [
                 "IMG_8628",
@@ -766,7 +766,7 @@
     },
     "CRSCK": {
         "name": "CRSCK",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "The Spot": [
                 "IMG_0084",
@@ -1115,7 +1115,7 @@
     },
     "END": {
         "name": "END",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "Currier Bridge (East Side)": [
                 "IMG_0051",
@@ -1320,7 +1320,7 @@
     },
     "GUROS": {
         "name": "GUROS",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "E Washington St (near US Bank)": [
                 "IMG_9053"
@@ -2717,7 +2717,7 @@
     },
     "OK": {
         "name": "OK",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "School of Social Work": [
                 "IMG_0143"
@@ -3066,7 +3066,7 @@
     },
     "PUFF": {
         "name": "PUFF",
-        "favorite": true,
+        "favorite": false,
         "photos": {
             "Studio Hole": [
                 "IMG_8509",
