@@ -2768,7 +2768,6 @@
                 "IMG_9307",
                 "IMG_9308",
                 "IMG_9312",
-                "IMG_9314",
                 "IMG_9318",
                 "IMG_9321",
                 "IMG_9324",
@@ -2779,10 +2778,8 @@
                 "IMG_9347",
                 "IMG_9351",
                 "IMG_9352",
-                "IMG_9355",
                 "IMG_9370",
                 "IMG_9378",
-                "IMG_9384",
                 "IMG_9386",
                 "IMG_9387",
                 "IMG_9396",
@@ -2797,9 +2794,6 @@
                 "IMG_9574",
                 "IMG_9616"
             ],
-            "Starbucks Block on Clinton": [
-                "IMG_9860"
-            ],
             "Hall of Fame Power Boxes": [
                 "IMG_9914",
                 "IMG_9918"
@@ -2811,7 +2805,7 @@
                 "PREVIEW"
             ]
         },
-        "count": 69
+        "count": 65
     },
     "OMBOY": {
         "name": "OMBOY",
@@ -3572,15 +3566,24 @@
                 "IMG_8862"
             ],
             "S Dodge St Bridge (North Side)": [
+                "IMG_9172",
+                "IMG_9174",
                 "IMG_9179",
                 "IMG_9216",
-                "IMG_9217"
+                "IMG_9217",
+                "IMG_9307",
+                "IMG_9314",
+                "IMG_9355",
+                "IMG_9384"
+            ],
+            "Starbucks Block on Clinton": [
+                "IMG_9860"
             ],
             "Studio Hole": [
                 "PREVIEW"
             ]
         },
-        "count": 15
+        "count": 22
     },
     "SOLO": {
         "name": "SOLO",
