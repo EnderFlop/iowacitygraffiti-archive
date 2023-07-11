@@ -117,6 +117,21 @@ def generate_location_json():
     with open(".\location_coords.json", "w") as file:
         file.write(json.dumps(coords))
 
+#for when i'm archiving a ton but not organizing them. I want to record the location coords while I know them.
+def generate_new_location_from_temp(filepath):
+    with open(".\location_coords.json", "r") as file:
+        processed_locations = json.load(file)
+
+    for folder in os.listdir(filepath):
+        for location in os.listdir(filepath + "/" + folder):
+            if location not in processed_locations:
+                    processed_locations[location] = {}
+                    processed_locations[location]["lat_long"] = ""
+                    processed_locations[location]["count"] = 0
+
+    with open(".\location_coords.json", "w") as file:
+        file.write(json.dumps(processed_locations))
+
 def generate_favorite_artist_json():
     print("Generating Favorite Artist File")
     with open("./favorites.json") as file:
@@ -135,12 +150,14 @@ def generate_favorite_artist_json():
 #to make a new "favorite" artist: add them to below list and run post-archive. then, type in their bio in favorites.json. Then add a cut out tag of theirs in their folder as {ARITST}.png
 IMPORTANT_ARTIST_LIST = ["GUSH"]
 
-if __name__ == "__main__":
-    rename_preview()
-    get_rid_of_JPGs()
-    #files are renamed BEFORE anything else is generated, keep this order.
-    generate_thumbnails()
-    generate_metadata()
-    generate_location_json()
-    generate_favorite_artist_json()
-    pass
+generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
+
+# if __name__ == "__main__":
+#     rename_preview()
+#     get_rid_of_JPGs()
+#     #files are renamed BEFORE anything else is generated, keep this order.
+#     generate_thumbnails()
+#     generate_metadata()
+#     generate_location_json()
+#     generate_favorite_artist_json()
+#     pass
