@@ -262,5 +262,41 @@
     "Railroad at the River": {
         "lat_long": "41.66233825992532, -91.54045214743317",
         "count": 0
+    },
+    "Alley of the Churches": {
+        "lat_long": "41.6630321066546, -91.53234553129002",
+        "count": 0
+    },
+    "130 N Linn St": {
+        "lat_long": "41.663102224248064, -91.53123559141866",
+        "count": 0
+    },
+    "Church Block": {
+        "lat_long": "41.663061063150984, -91.5338778279172",
+        "count": 0
+    },
+    "John's Block": {
+        "lat_long": "41.66301697976434, -91.52941999655964",
+        "count": 0
+    },
+    "Longfellow Nature Trail": {
+        "lat_long": "41.64988087913734, -91.51490592179324",
+        "count": 0
+    },
+    "Behind Phillips Hall": {
+        "lat_long": "41.66218215641452, -91.53387600563224",
+        "count": 0
+    },
+    "PBSB Block": {
+        "lat_long": "41.66191887488722, -91.53098891783198",
+        "count": 0
+    },
+    "Phillips Hall Block": {
+        "lat_long": "41.661760029410104, -91.53384633960049",
+        "count": 0
+    },
+    "VAN Block": {
+        "lat_long": "41.661878918977614, -91.53218461437689",
+        "count": 0
     }
 }
