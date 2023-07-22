@@ -366,5 +366,53 @@
     "Trumpet & Vice": {
         "lat_long": "41.65470316609814, -91.53114648562544",
         "count": 0
+    },
+    "Agusta Apartments": {
+        "lat_long": "41.66089419016799, -91.52938720066658",
+        "count": 0
+    },
+    "Apartments below Ralston": {
+        "lat_long": "41.65524182128376, -91.52950721283803",
+        "count": 0
+    },
+    "Bottom of PS1 Block": {
+        "lat_long": "41.65435203795517, -91.52951623467104",
+        "count": 0
+    },
+    "Bottom of Ralston Apartments": {
+        "lat_long": "41.6565393999557, -91.52961096399035",
+        "count": 0
+    },
+    "Chauncey and Garage": {
+        "lat_long": "41.65942398034859, -91.52943274133014",
+        "count": 0
+    },
+    "Chauncey Bridge": {
+        "lat_long": "41.65893867702944, -91.52897262751766",
+        "count": 0
+    },
+    "City Hall": {
+        "lat_long": "41.66019968542529, -91.52882973331019",
+        "count": 0
+    },
+    "RAPID's Bridge": {
+        "lat_long": "41.656768535701794, -91.52893627261466",
+        "count": 0
+    },
+    "Rec Center": {
+        "lat_long": "41.658377672496684, -91.52954130317963",
+        "count": 0
+    },
+    "Jefferson Apartments": {
+        "lat_long": "41.66214742357019, -91.52945091954466",
+        "count": 0
+    },
+    "Top of Ralston Apartments": {
+        "lat_long": "41.65743136985479, -91.52955265483426",
+        "count": 0
+    },
+    "Whistler's Block": {
+        "lat_long": "41.661628704229926, -91.52944448137048",
+        "count": 0
     }
 }
