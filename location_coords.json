@@ -322,5 +322,49 @@
     "Old Capitol Mall": {
         "lat_long": "41.659602038826435, -91.53543624098877",
         "count": 0
+    },
+    "Around Encounter Cafe": {
+        "lat_long": "41.6568867444313, -91.53417613834394",
+        "count": 0
+    },
+    "Behind Gilbert Apartments": {
+        "lat_long": "41.65726270485717, -91.53127356670862",
+        "count": 0
+    },
+    "Capitol House Apartments and Businesses": {
+        "lat_long": "41.65725793858782, -91.53279824425573",
+        "count": 0
+    },
+    "Court Street Transportation Center": {
+        "lat_long": "41.657391394039784, -91.53384765617773",
+        "count": 0
+    },
+    "Gilbert Apartments": {
+        "lat_long": "41.65719597703225, -91.5306196778307",
+        "count": 0
+    },
+    "Harrison St Apartments": {
+        "lat_long": "41.656025845707596, -91.53120977267517",
+        "count": 0
+    },
+    "Kum & Go": {
+        "lat_long": "41.65764711757685, -91.53064118119451",
+        "count": 0
+    },
+    "Mosley Block": {
+        "lat_long": "41.65487393096023, -91.53053454091182",
+        "count": 0
+    },
+    "Pizza Block": {
+        "lat_long": "41.656115578582956, -91.53056324822967",
+        "count": 0
+    },
+    "S Linn St Apartments": {
+        "lat_long": "41.65721046540893, -91.53206002229221",
+        "count": 0
+    },
+    "Trumpet & Vice": {
+        "lat_long": "41.65470316609814, -91.53114648562544",
+        "count": 0
     }
 }
