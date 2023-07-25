@@ -414,5 +414,29 @@
     "Whistler's Block": {
         "lat_long": "41.661628704229926, -91.52944448137048",
         "count": 0
+    },
+    "Crepes Block": {
+        "lat_long": "41.6586577780864, -91.53098924323199",
+        "count": 0
+    },
+    "Dubuque Street Ramp": {
+        "lat_long": "41.658186685157915, -91.53246376541622",
+        "count": 0
+    },
+    "Graduate and Bread Garden": {
+        "lat_long": "41.65868715999684, -91.5326171366844",
+        "count": 0
+    },
+    "JiangHu Block": {
+        "lat_long": "41.658183734555585, -91.5309527277222",
+        "count": 0
+    },
+    "The Nest Alley": {
+        "lat_long": "41.65846261002108, -91.53396589741769",
+        "count": 0
+    },
+    "Wells Fargo Ped Mall and Tunnel": {
+        "lat_long": "41.658867032702766, -91.53368396493259",
+        "count": 0
     }
 }
