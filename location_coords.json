@@ -454,5 +454,17 @@
     "Tower Place": {
         "lat_long": "41.660907535717215, -91.53094303985281",
         "count": 0
+    },
+    "Block around The Hole": {
+        "lat_long": "41.66116521400109, -91.53357151595155",
+        "count": 0
+    },
+    "The Hole Ground Floor": {
+        "lat_long": "41.660674269232125, -91.53387192336123",
+        "count": 0
+    },
+    "Which Wich Alley": {
+        "lat_long": "41.66044323700087, -91.533425555535",
+        "count": 0
     }
 }
