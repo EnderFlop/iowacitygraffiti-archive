@@ -132,7 +132,7 @@
         "count": 24
     },
     "Starbucks Block on Clinton": {
-        "lat_long": "41.658387626869306, -91.5341522933691",
+        "lat_long": "41.658250923807, -91.53427815311282",
         "count": 35
     },
     "131 E Burlington": {
@@ -437,6 +437,22 @@
     },
     "Wells Fargo Ped Mall and Tunnel": {
         "lat_long": "41.658867032702766, -91.53368396493259",
+        "count": 0
+    },
+    "Gabes Block": {
+        "lat_long": "41.660418964400364, -91.53091146416814",
+        "count": 0
+    },
+    "Masonic Lodge Block": {
+        "lat_long": "41.65923941958566, -91.53094304060137",
+        "count": 0
+    },
+    "Record Collector Block": {
+        "lat_long": "41.65977864274854, -91.53091597508781",
+        "count": 0
+    },
+    "Tower Place": {
+        "lat_long": "41.660907535717215, -91.53094303985281",
         "count": 0
     }
 }
