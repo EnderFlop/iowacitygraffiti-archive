@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Skatepark",
+    "coords": "41.676701494771656, -91.53344832175931",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "College Green Park",
+    "coords": "41.65947570774574, -91.52653569625441",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Under Ralston Bridge 1",
+    "coords": "41.65443269392561, -91.5317009561782",
+    "reason": "Haven't explored"
+  },
+  {
+    "name": "Under Ralston Bridge 2",
+    "coords": "41.65531447342442, -91.5307943695349",
+    "reason": "Homeless Camp"
+  },
+  {
+    "name": "Under Ralston Bridge 3",
+    "coords": "41.655494835925666, -91.5302471988981",
+    "reason": "Homeless Camp"
+  },
+  {
+    "name": "Westside Residence Halls",
+    "coords": "41.65850309403922, -91.544442054311",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "University Hospital Park",
+    "coords": "41.65889593249808, -91.54782801974073",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Kinnick Stadium",
+    "coords": "41.65861538320478, -91.55115395890552",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Under Benton St Bridge",
+    "coords": "41.65083418314214, -91.53819129898172",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Southern Rail Line",
+    "coords": "41.65281501651152, -91.53896069171107",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Along River West Coast",
+    "coords": "41.66000351867477, -91.54193852627144",
+    "reason": "Never finished. From the Burlington St Bridge to the Old Art Building"
+  },
+  {
+    "name": "Riverfront Crossing Park Bridge",
+    "coords": "41.646458157375264, -91.53604727481026",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Huge ASC Tag",
+    "coords": "41.671130279434294, -91.5324802879364",
+    "reason": "Out of scope of project"
+  }
+]

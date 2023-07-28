@@ -161,3 +161,5 @@ generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storag
 #     generate_location_json()
 #     generate_favorite_artist_json()
 #     pass
+
+#develop location renamer, make all names small enough to fit in one line on site.
