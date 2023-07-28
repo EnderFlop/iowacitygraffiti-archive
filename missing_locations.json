@@ -73,5 +73,35 @@
     "name": "The Hole Roofs",
     "coords": "41.66062629660223, -91.53434615159534",
     "reason": "No Access"
+  },
+  {
+    "name": "Textiles Roof",
+    "coords": "41.659700127008136, -91.53340170156086",
+    "reason": "No Access"
+  },
+  {
+    "name": "Daydreams Roof",
+    "coords": "41.65990325413423, -91.53188176558068",
+    "reason": "No Access"
+  },
+  {
+    "name": "Mayflower",
+    "coords": "41.6766683052557, -91.53170048632656",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "City Park",
+    "coords": "41.67443391277141, -91.53939964045041",
+    "reason": "Out of scope of project"
+  },
+  {
+    "name": "Rest of town East",
+    "coords": "41.66304474579297, -91.52652810079536",
+    "reason": "Got a little before realizing I didn't have time to get it all. Out of scope of project"
+  },
+  {
+    "name": "Kirkwood Campus and Surroundings",
+    "coords": "41.643840411179184, -91.50878366278565",
+    "reason": "Out of scope of project"
   }
 ]
