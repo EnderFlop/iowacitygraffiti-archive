@@ -68,5 +68,10 @@
     "name": "General Town South",
     "coords": "41.655508156293024, -91.53543545353665",
     "reason": "Out of scope of project"
+  },
+  {
+    "name": "The Hole Roofs",
+    "coords": "41.66062629660223, -91.53434615159534",
+    "reason": "No Access"
   }
 ]
