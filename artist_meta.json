@@ -615,26 +615,6 @@
         },
         "count": 1
     },
-    "CHEMO": {
-        "name": "CHEMO",
-        "favorite": false,
-        "photos": {
-            "Elray's Roof": [
-                "IMG_8955"
-            ],
-            "S Dodge St Bridge (North Side)": [
-                "IMG_9212 - Copy"
-            ],
-            "S Dodge St Bridge (South Side)": [
-                "IMG_9570 - Copy",
-                "IMG_9600"
-            ],
-            "Elray's Alley": [
-                "PREVIEW"
-            ]
-        },
-        "count": 5
-    },
     "CHEWBACCA": {
         "name": "CHEWBACCA",
         "favorite": false,
@@ -796,7 +776,6 @@
             "S Dodge St Bridge (North Side)": [
                 "IMG_9185",
                 "IMG_9361",
-                "IMG_9365",
                 "IMG_9374",
                 "IMG_9414"
             ],
@@ -814,7 +793,7 @@
                 "PREVIEW"
             ]
         },
-        "count": 31
+        "count": 30
     },
     "CRUX": {
         "name": "CRUX",
@@ -4205,6 +4184,26 @@
             ]
         },
         "count": 1
+    },
+    "TESTTESTTESTTEST": {
+        "name": "TESTTESTTESTTEST",
+        "favorite": false,
+        "photos": {
+            "Elray's Roof": [
+                "IMG_8955"
+            ],
+            "S Dodge St Bridge (North Side)": [
+                "IMG_9212 - Copy"
+            ],
+            "S Dodge St Bridge (South Side)": [
+                "IMG_9570 - Copy",
+                "IMG_9600"
+            ],
+            "Elray's Alley": [
+                "PREVIEW"
+            ]
+        },
+        "count": 5
     },
     "THRIVE": {
         "name": "THRIVE",
