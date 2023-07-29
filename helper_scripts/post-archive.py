@@ -39,7 +39,7 @@ def renameArtist(oldName, newName):
             file.write(json.dumps(data))
         
 
-#renameArtist("CHEMO", "TESTTESTTESTTEST")
+renameArtist("TESTTESTTESTTEST", "CHEMO")
 
 def generate_thumbnails():
     print("Generating Thumbnails")
@@ -166,7 +166,7 @@ IMPORTANT_ARTIST_LIST = ["GUSH"]
 
 #generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
 
-if __name__ == "__main__":
+def main():
     rename_preview()
     get_rid_of_JPGs()
     #files are renamed BEFORE anything else is generated, keep this order.
@@ -175,3 +175,6 @@ if __name__ == "__main__":
     generate_location_json()
     generate_favorite_artist_json()
     pass
+
+if __name__ == "__main__":
+    #main()
