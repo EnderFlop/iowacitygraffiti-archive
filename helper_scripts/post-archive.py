@@ -27,6 +27,20 @@ def get_rid_of_JPGs():
             old_filename = photo.split(".")[0]
             os.rename(path + f"\{old_filename}.JPG", path + f"\{old_filename}.jpg")
 
+def renameArtist(oldName, newName):
+    os.rename(f".\photos\{oldName}", f".\photos\{newName}")
+    jsons = [file for file in os.listdir(f".\photos\{newName}") if file[-5:] == ".json"]
+    for j in jsons:
+        with open(f".\photos\{newName}\{j}", "r") as file:
+            data = json.load(file)
+        data["artist"] = newName
+        print(data)
+        with open(f".\photos\{newName}\{j}", "w") as file:
+            file.write(json.dumps(data))
+        
+
+#renameArtist("CHEMO", "TESTTESTTESTTEST")
+
 def generate_thumbnails():
     print("Generating Thumbnails")
     for dir_name in os.listdir(".\photos"):
@@ -150,16 +164,14 @@ def generate_favorite_artist_json():
 #to make a new "favorite" artist: add them to below list and run post-archive. then, type in their bio in favorites.json. Then add a cut out tag of theirs in their folder as {ARITST}.png
 IMPORTANT_ARTIST_LIST = ["GUSH"]
 
-generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
+#generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
 
-# if __name__ == "__main__":
-#     rename_preview()
-#     get_rid_of_JPGs()
-#     #files are renamed BEFORE anything else is generated, keep this order.
-#     generate_thumbnails()
-#     generate_metadata()
-#     generate_location_json()
-#     generate_favorite_artist_json()
-#     pass
-
-#develop location renamer, make all names small enough to fit in one line on site.
+if __name__ == "__main__":
+    rename_preview()
+    get_rid_of_JPGs()
+    #files are renamed BEFORE anything else is generated, keep this order.
+    generate_thumbnails()
+    generate_metadata()
+    generate_location_json()
+    generate_favorite_artist_json()
+    pass
