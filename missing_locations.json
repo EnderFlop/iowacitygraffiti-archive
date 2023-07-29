@@ -103,5 +103,10 @@
     "name": "Kirkwood Campus and Surroundings",
     "coords": "41.643840411179184, -91.50878366278565",
     "reason": "Out of scope of project"
+  },
+  {
+    "name": "Old Rail Station",
+    "coords": "41.653499674669455, -91.53382878117046",
+    "reason": "Out of scope of project"
   }
 ]
