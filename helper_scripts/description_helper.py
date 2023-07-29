@@ -42,6 +42,7 @@ def create_description():
     try:
         valid_folder = list(filter(regex.match, folders))[0]
     except IndexError: #path does not exist
+        input("MAKING NEW FOLDER!!! Press {Enter} if intentional.")
         os.makedirs(f"../photos/{artist}")
         valid_folder = artist
 
