@@ -39,7 +39,7 @@ def renameArtist(oldName, newName):
             file.write(json.dumps(data))
         
 
-renameArtist("Video Sloth", "VIDEOSLOTH")
+renameArtist("Iris", "IRIS")
 
 def generate_thumbnails():
     print("Generating Thumbnails")
