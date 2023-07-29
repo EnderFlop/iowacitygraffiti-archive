@@ -39,7 +39,7 @@ def renameArtist(oldName, newName):
             file.write(json.dumps(data))
         
 
-renameArtist("UEUR", "LEUR")
+#renameArtist("UEUR", "LEUR")
 
 def generate_thumbnails():
     print("Generating Thumbnails")
@@ -178,4 +178,4 @@ def main():
 
 if __name__ == "__main__":
     pass
-    #main()
+    main()
