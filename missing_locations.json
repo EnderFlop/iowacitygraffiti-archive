@@ -108,5 +108,10 @@
     "name": "Old Rail Station",
     "coords": "41.653499674669455, -91.53382878117046",
     "reason": "Out of scope of project"
+  },
+  {
+    "name": "Gabe's Backyard",
+    "coords": "41.660585812487525, -91.53046011614033",
+    "reason": "Out of scope of project"
   }
 ]
