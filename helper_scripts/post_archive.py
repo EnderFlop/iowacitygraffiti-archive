@@ -166,6 +166,23 @@ IMPORTANT_ARTIST_LIST = ["GUSH"]
 
 #generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
 
+def rename_all_photos():
+    #for each folder
+        #for each photo (.jpg or .JPG)
+            #rename to be "whatever.a"
+
+    for folder in os.listdir(".\photos"):
+        print(folder)
+        for file in os.listdir(f".\photos\{folder}"):
+            if ".jpg" in file or ".JPG" in file:
+                img_name = file[:-4]
+                os.rename(f".\photos\{folder}\{file}", f".\photos\{folder}\{img_name}.a")
+        
+    
+    #dont need to update jsons because we're switching to .jpg back right after
+
+rename_all_photos()
+
 def main():
     rename_preview()
     get_rid_of_JPGs()
@@ -178,4 +195,10 @@ def main():
 
 if __name__ == "__main__":
     pass
-    main()
+    #main()
+
+
+#TODO:
+    #change all names to be in order: 1.jpg, 2.jpg, etc. do whatever to fix github .JPG
+    #look thru Unknown and sort out all of those into categories. 
+    # Then, go thru any 1 tag artists and move to Unknown if applicable.
