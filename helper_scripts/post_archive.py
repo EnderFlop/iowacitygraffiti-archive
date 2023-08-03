@@ -174,9 +174,9 @@ def rename_all_photos():
     for folder in os.listdir(".\photos"):
         print(folder)
         for file in os.listdir(f".\photos\{folder}"):
-            if ".jpg" in file or ".JPG" in file:
-                img_name = file[:-4]
-                os.rename(f".\photos\{folder}\{file}", f".\photos\{folder}\{img_name}.a")
+            if ".a" in file:
+                img_name = file[:-2]
+                os.rename(f".\photos\{folder}\{file}", f".\photos\{folder}\{img_name}.jpg")
         
     
     #dont need to update jsons because we're switching to .jpg back right after
