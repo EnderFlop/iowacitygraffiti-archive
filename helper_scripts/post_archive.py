@@ -181,7 +181,7 @@ def rename_all_photos():
     
     #dont need to update jsons because we're switching to .jpg back right after
 
-rename_all_photos()
+#rename_all_photos()
 
 def main():
     rename_preview()
@@ -195,7 +195,7 @@ def main():
 
 if __name__ == "__main__":
     pass
-    #main()
+    main()
 
 
 #TODO:
