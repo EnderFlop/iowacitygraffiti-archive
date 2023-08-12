@@ -162,7 +162,7 @@ def generate_favorite_artist_json():
         file.write(json.dumps(data))
 
 #to make a new "favorite" artist: add them to below list and run post-archive. then, type in their bio in favorites.json. Then add a cut out tag of theirs in their folder as {ARITST}.png
-IMPORTANT_ARTIST_LIST = ["GUSH"]
+IMPORTANT_ARTIST_LIST = [""]
 
 #generate_new_location_from_temp("c:/Users/EnderFlop/Desktop/temp graffiti storage")
 
